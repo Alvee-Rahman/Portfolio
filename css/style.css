@@ -2,6 +2,8 @@ body{
     font-family: 'Courier Prime', monospace;
     color: aliceblue;
     background-color: black;
+    
+    
 
 }
 h1{
@@ -11,14 +13,19 @@ h1{
     display: flex;
 
 }
+
 img{
 
-    width: 70%;
+    width: 40%;
     height: auto;
     margin-left: 70px;
+    
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(190, 173, 19);
+   
 }
 .myIntro{
-    margin-top: 100px;
+    margin-top: 50px;
     padding: 20px 10px;
     width: 60%;
     text-align: center;
